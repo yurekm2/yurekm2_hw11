@@ -51,7 +51,7 @@ p{
 
 .hsl {
   background-color: hsl(0, 60%, 34%);
-  color: hsl(0, 0%, 95%, .8);
+  color: hsla(0, 0%, 95%, .8);
   border: 5px solid hsl(0, 87%, 59%);
 }
 
