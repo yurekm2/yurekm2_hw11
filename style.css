@@ -43,16 +43,16 @@ p{
 }
 
 .rgb {
-  background-color: ;
-  color: ;
-  border: 5px solid ;
+  background-color: rgb(1, 17, 38);
+  color: rgb(242, 242, 242);
+  border: 5px solid rgb(64, 115, 68);
   font-size: 40px;
 }
 
 .hsl {
-  background-color: ;
-  color: ;
-  border: 5px solid ;
+  background-color: hsl(0, 60%, 34%);
+  color: hsl(0, 0%, 95%, .8);
+  border: 5px solid hsl(0, 87%, 59%);
 }
 
 .hue1 {
