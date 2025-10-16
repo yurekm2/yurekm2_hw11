@@ -32,6 +32,7 @@ p{
 }
 
 .container {
+  background-image: linear-gradient(rgba(255, 0, 0, 0.15), rgba(141, 102, 102, 0.75)) url("https://cdn.glitch.global/b3fabd8f-d8a8-47ea-9e16-a4bff0c1234a/y-so-serious.png?v=1664345580503Links to an external site.");
   background-color: #8bd3dd;
   border: 2px dashed #f582ae;
   width: 400px;
