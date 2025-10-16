@@ -3,6 +3,12 @@ font-family: "Edition";
 src: url("./assets/EDITION_.TTF");
 }
 
+.silkscreen-regular {
+  font-family: "Silkscreen", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
 * {
   margin: 0;
   padding: 0;
