@@ -56,35 +56,35 @@ p{
 }
 
 .hue1 {
-  background-color: ;
+  background-color: hsl(60, 60%, 34%);
 }
 
 .hue2 {
-  background-color: ;
+  background-color: hsl(240, 60%, 34%);
 }
 
 .sat1 {
-  background-color: ;
+  background-color: hsl(0, 100%, 34%);
 }
 
 .sat2 {
-  background-color: ;
+  background-color: hsl(0, 50%, 34%);
 }
 
 .sat3 {
-  background-color: ;
+  background-color: hsl(0, 0%, 34%);
 }
 
 .light1{
-  background-color: ;
+  background-color: hsl(0, 60%, 0%);
 }
 
 .light2{
-  background-color: ;
+  background-color: hsl(0, 60%, 50%);
 }
 
 .light3{
-  background-color: ;
+  background-color: hsl(0, 60%, 100%);
 }
 
 .row {
