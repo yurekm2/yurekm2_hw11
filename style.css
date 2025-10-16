@@ -1,4 +1,7 @@
-
+@font-face {
+font-family: "Edition";
+src: url("./assets/EDITION_.TTF");
+}
 
 * {
   margin: 0;
@@ -45,6 +48,7 @@ p{
 }
 
 .rgb {
+  font-family: "Edition", serif;
   background-color: rgb(1, 17, 38);
   color: rgb(242, 242, 242);
   border: 5px solid rgb(64, 115, 68);
