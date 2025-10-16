@@ -62,6 +62,7 @@ p{
 }
 
 .hsl {
+  font-family: 'Silkscreen', cursive;
   background-color: hsl(0, 60%, 34%);
   color: hsla(0, 0%, 95%, .8);
   border: 5px solid hsl(0, 87%, 59%);
